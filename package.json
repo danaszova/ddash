@@ -1,0 +1,12 @@
+{
+  "name": "ddash",
+  "version": "1.0.2",
+  "description": "Library of functions for web and mobile applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["library"],
+  "author": "Dana Szova",
+  "license": "Apache-2.0"
+}
