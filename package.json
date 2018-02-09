@@ -1,6 +1,6 @@
 {
   "name": "ddash",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Library of functions for web and mobile applications",
   "main": "index.js",
   "scripts": {
