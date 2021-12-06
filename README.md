@@ -2,7 +2,9 @@
 
 <br />
 
-DDASH Library - A collection of useful functions to streamline application development. Pertains to web and mobile.
+DDASH Library - A collection of useful functions to streamline application development. Pertains to web and mobile. Available via NPM at: -https://www.npmjs.com/package/ddash
+
+This library only has a few functions at this time. It is an example of a simple NPM library created from scratch.
 
 ### Usage
 
