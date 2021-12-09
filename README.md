@@ -10,10 +10,10 @@ This library only has a few functions at this time. It is an example of a simple
 ## Functions
 
 ### distanceCalculator - 
-## Calculates the distance between 2 points
+#### Calculates the distance between 2 points
 
-### niceDate - 
-## Returns a nicely formatted date from an ISO string
+## niceDate - 
+### Returns a nicely formatted date from an ISO string
 
 ### getCount -Simulates a get count operation and returns a random number
 
